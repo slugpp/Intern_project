@@ -1,5 +1,5 @@
-Info : อ้างอิง
-https://github.com/Xinyuan-LilyGO/LilyGO-T-A76XX
+Info :   
+อ้างอิง https://github.com/Xinyuan-LilyGO/LilyGO-T-A76XX
 ---
 โหลด Lib หรือ ดูข้อมูลเพิ่มเติมได้ที่ลิงค์ github นี้
 ----
